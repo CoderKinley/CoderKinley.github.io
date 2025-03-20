@@ -1,4 +1,4 @@
-# this is my First BLog Post
+# This is my First Blog
 
 ```tsql
  SELECT *
